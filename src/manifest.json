@@ -1,7 +1,7 @@
 {
-  "name": "demo-pwa-angular",
-  "short_name": "demo-pwa-angular",
-  "theme_color": "#1976d2",
+  "name": "Demo PWA Angular",
+  "short_name": "DPA",
+  "theme_color": "#E73C4C",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "/",
