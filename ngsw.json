@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1554734209253,
+  "timestamp": 1554734819583,
   "index": "/demo-pwa-angular/index.html",
   "assetGroups": [
     {
@@ -11,7 +11,7 @@
         "/demo-pwa-angular/es2015-polyfills.1e04665e16f944715fd2.js",
         "/demo-pwa-angular/favicon.ico",
         "/demo-pwa-angular/index.html",
-        "/demo-pwa-angular/main.556fde4f85568c42afd2.js",
+        "/demo-pwa-angular/main.3831613daac4572c9aaf.js",
         "/demo-pwa-angular/polyfills.8bbb231b43165d65d357.js",
         "/demo-pwa-angular/runtime.26209474bfa8dc87a77c.js",
         "/demo-pwa-angular/styles.3ff695c00d717f2d2a11.css"
@@ -47,8 +47,8 @@
     "/demo-pwa-angular/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/demo-pwa-angular/es2015-polyfills.1e04665e16f944715fd2.js": "b7a81c61d32b0b12737f0c13f45973ba391cd7f9",
     "/demo-pwa-angular/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/demo-pwa-angular/index.html": "387373c4b113b3e290d0b17b0a1efe81879a9ec3",
-    "/demo-pwa-angular/main.556fde4f85568c42afd2.js": "3315413c54649bc03634e6e528bf64de35e8efc5",
+    "/demo-pwa-angular/index.html": "21c2d271e0ca7d5afaa7b5f35e1e35867f491ec2",
+    "/demo-pwa-angular/main.3831613daac4572c9aaf.js": "40d79aafaa89ee1c666f8d23ffd1ec88a5a799e7",
     "/demo-pwa-angular/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
     "/demo-pwa-angular/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/demo-pwa-angular/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
